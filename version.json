@@ -1,8 +1,6 @@
   {
-    "versionName": "1.2 Beta",
-    "versionCode": 3,
-    "downloadUrl":"https://github.com/cons8/medirecord-release/releases/download/v1.2/app-release.apk",
-    "releaseNotes": " 1. 修复状态栏不沉浸的问题
-                      2. 修复每次启动都要确认隐私协议的问题
-                      3. 新增手动检测更新功能"
+    "versionName": "1.3 Beta",
+    "versionCode": 4,
+    "downloadUrl":"https://github.com/cons8/medirecord-release/releases/download/v1.3/app-release.apk",
+    "releaseNotes": "修复主题切换的问题"
   }

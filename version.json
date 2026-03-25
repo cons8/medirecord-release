@@ -1,6 +1,11 @@
   {
-    "versionName": "1.4 Beta",
-    "versionCode": 5,
-    "downloadUrl":"https://github.com/cons8/medirecord-release/releases/download/v1.4/app-debug.apk",
-    "releaseNotes": "修复了一些已知问题"
+    "versionName": "1.5",
+    "versionCode": 6,
+    "downloadUrl":"https://github.com/cons8/medirecord-release/releases/download/v1.5/app-debug.apk",
+    "releaseNotes": "1.优化返回动画逻辑
+2.首页和详细页暗黑模式下药品的文字标题，页面title显示不清的问题
+3.修复日历筛选文字展示的问题
+4.修复检查更新时出现的问题
+5.修复用药频录输入框的1必须要输入内容后才能删除的问题
+6.解决上个版本遗留的按钮色彩问题"
   }
